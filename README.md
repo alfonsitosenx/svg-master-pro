@@ -1,14 +1,14 @@
 # SVG Master Pro — Raster to Vector Studio
 
 Windows app by Excess Pro Net LLC that turns photos, logos and scans into clean,
-production-ready SVG vectors — five tracing engines, thirteen tuned styles and
+production-ready SVG vectors — four tracing engines, thirteen tuned styles and
 true batch conversion, all running on your own computer.
 
 **This repository hosts the downloads only — it contains no source code.**
 
 ## Download
 
-**[Latest release — SVG-Master-Pro-Setup-7.1.0.exe](https://github.com/alfonsitosenx/svg-master-pro/releases/latest)**
+**[Latest release — SVG-Master-Pro-Setup-7.1.1.exe](https://github.com/alfonsitosenx/svg-master-pro/releases/latest)**
 
 One installer for every edition: a full 7-day trial, then the free edition until
 you enter a licence key.
@@ -24,12 +24,16 @@ you enter a licence key.
 - **Trial:** everything unlocked for 7 days
 - **Free:** single-file conversion in the Classical Studio, every style except
   Embroidery
-- **Pro:** batch conversion, all five engines (SLIC, Potrace, Felzenszwalb,
+- **Pro:** batch conversion, all four engines (Classical, SLIC, Felzenszwalb,
   K-means), the Style and Engine comparison matrices, Embroidery (Ink/Stitch)
   output and Inkscape export — $59 lifetime.
   See [pricing](https://excesspronet.com/softwares/svg-master-pro/#pricing)
 
 Your images never leave your computer; only the licence key is checked online.
+
+SVG Master Pro includes open-source components under permissive licences (MIT,
+BSD, Apache 2.0); their notices ship with the app in `THIRD_PARTY_NOTICES.txt`
+and under **Help → Third-Party Notices**.
 
 ## Links
 
