@@ -8,7 +8,7 @@ true batch conversion, all running on your own computer.
 
 ## Download
 
-**[Latest release — SVG-Master-Pro-Setup-7.1.1.exe](https://github.com/alfonsitosenx/svg-master-pro/releases/latest)**
+**[Latest release — SVG-Master-Pro-Setup-7.1.2.exe](https://github.com/alfonsitosenx/svg-master-pro/releases/latest)**
 
 One installer for every edition: a full 7-day trial, then the free edition until
 you enter a licence key.
