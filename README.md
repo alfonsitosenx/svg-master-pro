@@ -26,7 +26,7 @@ you enter a licence key.
   Embroidery
 - **Pro:** batch conversion, all four engines (Classical, SLIC, Felzenszwalb,
   K-means), the Style and Engine comparison matrices, Embroidery (Ink/Stitch)
-  output and Inkscape export — $59 lifetime.
+  output and Inkscape export — $59 lifetime for 1 computer, or $89 for 3.
   See [pricing](https://excesspronet.com/softwares/svg-master-pro/#pricing)
 
 Your images never leave your computer; only the licence key is checked online.
